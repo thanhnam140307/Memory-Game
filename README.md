@@ -24,3 +24,8 @@ Vous devez entrer un nom d'utilisateur avant de commencer. Le champ du nom d'uti
 
 ---
 Enjoy the game and good luck! / Amusez-vous bien et bonne chance !
+
+![index](/images.docs/index.jpg)  
+
+![game](/images.docs/game.jpg)  
+
